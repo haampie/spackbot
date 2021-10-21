@@ -72,6 +72,7 @@ label_patterns = {
     #
     # Core spack
     #
+    "core": {"filename": r"^lib/spack"},
     "architecture": {
         "filename": r"^lib/spack/spack/(architecture|operating_systems|platforms)"
     },
